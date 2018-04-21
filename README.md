@@ -7,3 +7,7 @@ Portfolio running on AWS and React.js
 Git
 Github
 SSH
+HTML
+CSS
+Google fonts
+Fontawesome
